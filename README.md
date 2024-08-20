@@ -1,4 +1,4 @@
-# iAdmiral - Source Code by Piotr Snabowski
+# iAdmiral - Source Code by Piotr Sarnowski
 
 ## Overview
 
