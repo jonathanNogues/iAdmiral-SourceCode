@@ -2,7 +2,7 @@
 
 ## Overview
 
-**iAdmiral** is a naval battle game for iOS originally developed by **Piotr Sarnowski**, released date Jun 11, 2011. The game featured a top-down view of naval battles with unique rules and could be played solo or with others. Initially released on the App Store for 0.79€, the game received a few updates before being discontinued and eventually disappearing from the store.
+**iAdmiral** is a naval battle game for iOS originally developed by **Piotr Sarnowski**, released date Jun 11, 2011. The game featured a top-down view of naval battles with unique rules and could be played solo or with others. Initially released on the App Store for 0.99€, the game received a few updates before being discontinued and eventually disappearing from the store.
 
 [App store link with the Wayback Machine](https://web.archive.org/web/20110614195317/http://itunes.apple.com/app/iadmiral/id441896242)
 
